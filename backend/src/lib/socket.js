@@ -7,7 +7,7 @@ const server = http.createServer(app);
 
 const io = new Server(server, {
   cors: {
-    origin: ["chat-app-kappa-one-55.vercel.app"],
+    origin: ["http://localhost:5173"],
   },
 });
 
