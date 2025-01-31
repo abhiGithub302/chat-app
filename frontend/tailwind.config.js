@@ -28,7 +28,7 @@ export default {
       "fantasy",
       "wireframe",
       "black",
-      "luxury",
+      
       "dracula",
       "cmyk",
       "autumn",
@@ -42,5 +42,6 @@ export default {
       "nord",
       "sunset",
     ],
+    darkTheme: "light",
   },
 };

@@ -18,7 +18,7 @@ export const THEMES = [
   "fantasy",
   "wireframe",
   "black",
-  "luxury",
+  
   "dracula",
   "cmyk",
   "autumn",
